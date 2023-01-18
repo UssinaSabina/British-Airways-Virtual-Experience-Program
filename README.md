@@ -24,7 +24,7 @@ During this programme, participants have the opportunity to step into the shoes 
 **The Baseline Model:** The baseline model was the Random Forest Classifier because it handles imbalanced data and easily allows us to output information about how each variable within the model contributes to its predictive power.<br /><br />
 **Gradient Boost & AdaBoost:** These two methods fall under the ensemble category of modeling. I wanted to give the two models a try to see how they would perform.<br /><br /> 
 **Conclusion:** The Random Forest Classifier has given us the best results when predicting the target.<br /><br />
-# Repositoy Guide
+# Repository Guide
 **Notebooks**<br /><br />
 First Task https://github.com/UssinaSabina/British-Airways-Virtual-Experience-Program/blob/main/Notebooks/BA(1).ipynb<br /><br />
 Second Task https://github.com/UssinaSabina/British-Airways-Virtual-Experience-Program/blob/main/Notebooks/BA(2).ipynb<br /><br />
